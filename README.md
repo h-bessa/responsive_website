@@ -9,7 +9,7 @@
 
 
 <br /><br />
-Creating a responsive website
+Creating a simple responsive website
 <br />
 <br />
 
